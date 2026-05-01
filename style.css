@@ -127,7 +127,7 @@ input[type] {
 .input-box {
   height: 40px;
   width: 100%;
-  border: #7B8A92;
+  border: 1px solid #7B8A92;
   position: relative;
 }
 
